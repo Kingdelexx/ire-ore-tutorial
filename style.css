@@ -1,0 +1,14 @@
+.carousel-item h2{
+    position: absolute;
+    top: 20px;
+    left: 50px
+  
+}
+.carousel-item {
+    position: relative;
+    
+}
+
+*{
+    scroll-behavior: smooth !important ;
+}

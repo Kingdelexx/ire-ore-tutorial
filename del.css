@@ -1,0 +1,23 @@
+.con img{
+    width: 500px;
+}
+
+.shape{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.con img{
+    width: 320px;
+}
+
+
+
+@media screen and (max-width: 480px) {
+   
+
+    .shape{
+        background-color: green;
+    }
+}
